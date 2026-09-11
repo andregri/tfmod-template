@@ -6,9 +6,9 @@ updates:
     schedule:
       interval: "weekly"
     reviewers:
-      - "brucellino"
+      - "andregri"
     assignees:
-      - "brucellino"
+      - "andregri"
     labels:
       - terraform
   - package-ecosystem: github-actions
@@ -18,6 +18,6 @@ updates:
     labels:
       - "actions"
     assignees:
-      - "brucellino"
+      - "andregri"
     reviewers:
-      - "brucellino"
+      - "andregri"
